@@ -1,0 +1,7 @@
+[1, true] => Setting mode 1
+I am now in mode 1
+You gain
+and
+ 
+[1, false] => and
+ 
