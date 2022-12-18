@@ -8,9 +8,11 @@ public class Legacy {
 
     private String state;
 
+    public static Random rand = new Random();
+
     public void doSth(String tmp, boolean flag){
         // imagine this method does something that you don't understand
-        Random rand = new Random();
+
         String theResult = "";
 
         if(flag){
